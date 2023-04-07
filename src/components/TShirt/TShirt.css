@@ -1,0 +1,12 @@
+.single-shirt img {
+   height: 170px;
+   padding: 5px;
+   border-radius: 16px;
+}
+
+.single-shirt {
+   border-radius: 16px;
+   border: 2px solid lightpink;
+   padding: 10px 0;
+
+}
